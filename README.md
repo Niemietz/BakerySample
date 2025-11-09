@@ -1,6 +1,6 @@
-# Bakery Website Sample
+# 🍞 Bakery Website Sample
 
-🍞 A sample of a Bakery website in Node.js + Express
+A sample of a Bakery website in Node.js + Express
 
 ## 📃 Pages
 
